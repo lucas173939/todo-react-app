@@ -22,8 +22,11 @@ Praticar conceitos fundamentais do React, como componentes, estado (useState) e 
 ## Como executar o projeto
 1. Baixar o projeto
 2. Instalar dependências
+3. Executar o projeto
 
-## Build de produção
-```bash
-npm run build
-```
+npm install
+npm run dev
+
+## Autor
+Lucas Fernandes
+https://github.com/lucas173939
