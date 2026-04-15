@@ -28,5 +28,5 @@ npm install
 npm run dev
 
 ## Autor
-Lucas Fernandes
+Lucas Fernando 
 https://github.com/lucas173939
